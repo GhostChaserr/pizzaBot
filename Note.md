@@ -1,0 +1,11 @@
+
+
+<!-- App access token -->
+access_token = "EAAGPY7H1PXUBAJm8DtjZBmNzziFpfJ7csZCxt6R6dSBwaecweSXrISpR1QEk6iLf8ZBVZAGsJVMwhAgoGOR3LpJYs0ELOk4ADbtFRbkr9zOaK7hi2h76MFeWPLdaxLLdfIFqZB0CCI0UAoiLq8Fu8DP7pXZCIHPtrbPUB474CSrQZDZD"
+
+
+<!-- APP SECRET -->
+app_secret = "e04fc55804810595e05028b6de3b5b86"
+
+<!-- APP ID -->
+app_id="439133326884213"
